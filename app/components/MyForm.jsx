@@ -96,7 +96,7 @@ var MyForm = React.createClass({
               <button type="submit"
                 className="form-control btn btn-primary buttonSearch"
                 bsStyle="primary">
-                render WordCloud <i className="glyphicon glyphicon-ok"></i>
+                 Load Data <i className="glyphicon glyphicon-ok"></i>
               </button>
             </div>
           </div>
